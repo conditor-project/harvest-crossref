@@ -1,0 +1,15 @@
+{
+  "name": "conditor-crossref",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawl-by-dois.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claude Niederlender <claude.niederlender@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "request": "^2.88.0"
+  }
+}
